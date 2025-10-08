@@ -16,14 +16,6 @@ sempre buscando evoluir, compartilhar conhecimento e construir coisas que realme
 
 ---
 
-## 🧩 Projetos Recentes
-
-### 🔹 [Gerador de Senhas](https://github.com/rafaellp96/Gerador-de-Senhas)
-Um gerador de senhas totalmente personalizável, desenvolvido com HTML, CSS e JavaScript,  
-com foco em segurança e interface moderna.  
-👉 [Acesse o site](https://rafaellp96.github.io/Gerador-de-Senhas/)
-
----
 ## 🧠 Tecnologias e Ferramentas
 
 <table align="center">
