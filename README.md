@@ -1,7 +1,7 @@
 
 # 👋 Olá, eu sou o Rafael de Lima Pacheco!
 
-💻 Estudante de **Análise e Desenvolvimento de Sistemas** · 5º Período  
+💻 **Análista e Desenvolvedor de Sistemas**
 📍 Belo Horizonte - MG, Brasil  
 🚀 Full-Stack Developer com foco em arquitetura de software e boas práticas
 
@@ -37,6 +37,10 @@ Aberto a oportunidades de **estágio e posições júnior** em times de desenvol
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64" alt="JavaScript"><br>
       <strong>JavaScript</strong>
     </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" alt="JavaScript"><br>
+      <strong>React</strong>
+    </td>
   </tr>
 </table>
 
@@ -51,6 +55,10 @@ Aberto a oportunidades de **estágio e posições júnior** em times de desenvol
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64" alt="Node.js"><br>
       <strong>Node.js</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" alt="Node.js"><br>
+      <strong>Python</strong>
     </td>
   </tr>
 </table>
@@ -96,8 +104,7 @@ Aberto a oportunidades de **estágio e posições júnior** em times de desenvol
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [Gerador de Senhas](https://github.com/RafaelLP96/Gerador-de-Senhas) | Gerador seguro com `crypto.getRandomValues()` | JS, HTML, CSS |
-| [NEXUS Dashboard](link) | Dashboard estilo Steam com estética cyberpunk para o mercado BR | HTML, CSS |
-| [Prontuário Trans](link) | Sistema de registros eletrônicos para saúde trans | JS, PostgreSQL, JSONB |
+| [Prontuário Trans](https://github.com/RafaelLP96/AnamneseProject) | Sistema de registros eletrônicos para saúde trans | JS, PostgreSQL, JSONB |
 
 ---
 
