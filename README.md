@@ -111,8 +111,9 @@ Aberto a oportunidades de **estágio e posições júnior** em times de desenvol
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaellp96&show_icons=true&theme=radical" alt="Rafael's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellp96&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafaellp96&show_icons=true&theme=radical" height="160"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaellp96&layout=compact&theme=radical" height="160"/>
+
 </p>
 
 ---
